@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 Sou bacharel em engenharia informática no ISIA
 - 👨‍💻 CEO e fundador da Trysoft <a href="https://trysoft.rf.gd">www.trysoft.rf.gd</a>
-- 🏠 Actualmente full-stack developer na GQS (groupo querõe saldanha)
+- 🏠 Actualmente Analista programador na Tis Tech <a href="https://www.tistech.co.ao/">www.tistech.co.ao</a> 
 - 🌏 Portfolio <a href="https://https://gelsonmatias.netlify.app/">gelsonmatias</a>
 
 
