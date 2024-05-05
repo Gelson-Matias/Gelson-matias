@@ -4,9 +4,8 @@
 <p>Meu primeiro contacto com a tecnologia (programação) foi no ensino de base, ao ingressar no ensino médio como técnico de informática foi ai que tive o primeiro contacto com programação, aprendendo logica de programa, algoritmo. Meu primeiro projeto em programação foi uma “simulação de um sistema multcaixa” isto em 2013 com pascal. </p>
 Here are some ideas to get you started:
 
-- 👨‍🎓 Sou bacharel em engenharia informática no ISIA
+- 👨‍🎓 Sou engenharia informática
 - 👨‍💻 CEO e fundador da Trysoft <a href="https://trysoft.rf.gd">www.trysoft.rf.gd</a>
-- 🏠 Actualmente Analista programador na Tis Tech <a href="https://www.tistech.co.ao/">www.tistech.co.ao</a> 
 - 🌏 Portfolio <a href="https://https://gelsonmatias.netlify.app/">gelsonmatias</a>
 
 
